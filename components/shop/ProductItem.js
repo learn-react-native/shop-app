@@ -11,7 +11,7 @@ const ProductItem = props => {
           <View style={styles.imageContainer}>
             <Image style={styles.image} source={{ uri: props.image }} />
           </View>
-          <View style={styles.detail}>
+          <View style={styles.details}>
             <Text style={styles.title}>{props.title}</Text>
             <Text style={styles.price}>${props.price}</Text>
           </View>

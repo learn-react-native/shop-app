@@ -1,0 +1,1 @@
+export const API_BASE_URL = 'https://rn-complete-guide-7adde-default-rtdb.firebaseio.com';
